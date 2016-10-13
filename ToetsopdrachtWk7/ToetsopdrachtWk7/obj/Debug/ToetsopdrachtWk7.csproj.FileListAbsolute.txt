@@ -1,0 +1,9 @@
+c:\users\bas\documents\visual studio 2015\Projects\ToetsopdrachtWk7\ToetsopdrachtWk7\bin\Debug\ToetsopdrachtWk7.exe.config
+c:\users\bas\documents\visual studio 2015\Projects\ToetsopdrachtWk7\ToetsopdrachtWk7\bin\Debug\ToetsopdrachtWk7.exe
+c:\users\bas\documents\visual studio 2015\Projects\ToetsopdrachtWk7\ToetsopdrachtWk7\bin\Debug\ToetsopdrachtWk7.pdb
+c:\users\bas\documents\visual studio 2015\Projects\ToetsopdrachtWk7\ToetsopdrachtWk7\obj\Debug\ToetsopdrachtWk7.csprojResolveAssemblyReference.cache
+c:\users\bas\documents\visual studio 2015\Projects\ToetsopdrachtWk7\ToetsopdrachtWk7\obj\Debug\ToetsopdrachtWk7.Form1.resources
+c:\users\bas\documents\visual studio 2015\Projects\ToetsopdrachtWk7\ToetsopdrachtWk7\obj\Debug\ToetsopdrachtWk7.Properties.Resources.resources
+c:\users\bas\documents\visual studio 2015\Projects\ToetsopdrachtWk7\ToetsopdrachtWk7\obj\Debug\ToetsopdrachtWk7.csproj.GenerateResource.Cache
+c:\users\bas\documents\visual studio 2015\Projects\ToetsopdrachtWk7\ToetsopdrachtWk7\obj\Debug\ToetsopdrachtWk7.exe
+c:\users\bas\documents\visual studio 2015\Projects\ToetsopdrachtWk7\ToetsopdrachtWk7\obj\Debug\ToetsopdrachtWk7.pdb
